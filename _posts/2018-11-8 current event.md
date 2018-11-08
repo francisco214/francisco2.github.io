@@ -1,5 +1,6 @@
 ---
-12 dead in California bar shooting
+layout: post
+title: 12 dead in California bar shooting
 ---
 <img src="12.jpg">
 Shooter Ian David Long’s mother “lived in fear” of what her son might do, saying when police were called to the house earlier this year “it took them about a half a day to get him out of the house," a neighbor told CNN.
