@@ -3,12 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<h1>MY Resume</h1>
+<h1>Francisco Salazar</h1>
+<p> Contact:francisco2142gmail.com
+<h3>Skills</h3>
+<ul>
+<li>progaming</li>
+<li>mechanic</li>
+<li>pro gamer</li>
+</ul>
+<h4>Education</h4>
+<ul>
+<li> Frankli D. Roosevelt</li>
+</ul>
 
 ### Contact me
 
