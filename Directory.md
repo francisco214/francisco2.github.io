@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: intermediate web programming
+permalink: /Directory/
 ---
-
-[Click me!](http://test.com/)
-
-#my Classmates
+# my Classmates
 
 * [Francisco](https://francisco214.github.io/)
 * [Rodolfo](https://rodolfo02002.github.io/)
