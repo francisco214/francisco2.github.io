@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <h1>MY Resume</h1>
 <h1>Francisco Salazar</h1>
-<p> Contact:francisco2142gmail.com
+<p> Contact:francisco2142gmail.com</p>
 <h3>Skills</h3>
 <ul>
 <li>progaming</li>
